@@ -1,0 +1,18 @@
+body {
+  background-color: green;
+}
+body h1 {
+  background-color: #ce5555;
+  color: green;
+}
+body p {
+  color: blue;
+}
+body div {
+  border: 1px solid chocolate;
+}
+body div p {
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */
